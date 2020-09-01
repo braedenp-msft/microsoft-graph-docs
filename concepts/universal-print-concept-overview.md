@@ -88,7 +88,7 @@ Looking for the API reference for this service?
 
 ## Feedback
 
-We'd love to hear your feedback about the Universal Print APIs. Provide your suggestions on [UserVoice](https://microsoftgraph.uservoice.com/forums/920506-microsoft-graph-feature-requests).
+We'd love to hear your feedback about the Universal Print APIs. Provide your suggestions on the [UP Tech Community](https://aka.ms/upcommunity).
 
 ## See also
 
